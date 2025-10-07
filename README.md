@@ -70,7 +70,7 @@ while True:
 s.close()
 ```
 
-> Nota de Segurança: Este código foi intencionalmente modificado para não ser funcional e prevenir o uso indevido. O projeto destina-se apenas a fins educacionais e de estudo.
+> Nota de Segurança: Este código foi intencionalmente modificado para prevenir o uso indevido. O projeto destina-se apenas a fins educacionais e de estudo.
 
 ### Passo 2: Configurar o arquivo
 
